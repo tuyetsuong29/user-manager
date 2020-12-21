@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "name": "Zed",
+        "phone": "123456789",
+        "level": 1
+    },
+    {
+        "id": "2",
+        "name": "Pantheon",
+        "phone": "123456789",
+        "level": 2
+    },
+    {
+        "id": "3",
+        "name": "Zyra",
+        "phone": "123456789",
+        "level": 3
+    },
+    {
+        "id": "4",
+        "name": "Shen",
+        "phone": "123456789",
+        "level": 3
+    },
+    {
+        "id": "5",
+        "name": "Yasuo",
+        "phone": "123456789",
+        "level": 3
+    },
+    {
+        "id": "6",
+        "name": "Yone",
+        "phone": "123456789",
+        "level": 1
+    }
+]
